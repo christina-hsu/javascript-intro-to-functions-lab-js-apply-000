@@ -7,5 +7,5 @@ function whiper(hello) {
 };
 
 function logShout(hello) {
-  console.log(hello)
+  console.log(hello.toUpperCase)
 };
